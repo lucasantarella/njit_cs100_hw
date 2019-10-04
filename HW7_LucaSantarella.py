@@ -1,25 +1,10 @@
-'''
-This homework consists of 8 problems. The first 7
-ask that you fill in a blank in the code below. The
-last problem asked you to draw some conclusions from
-the data generated.
-
-You should submit this .py file with the blanks filled
-in. Problem 8 should be answered as a triple quoted
-comment after the code.
-'''
-
-import string
-
-'''
-PROBLEM 0. Put your name and assignment information here.
-'''
-
 """
 Luca Santarella
 CS 100 2018S Section 009
 HW 07, October 3, 2019
 """
+
+import string
 
 # The Bells
 # Edgar Allen Poe
